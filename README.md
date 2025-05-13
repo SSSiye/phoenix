@@ -3,7 +3,7 @@
 
 ## 💡운영 블럭도
 <br/>
-![phenix블럭도](https://github.com/user-attachments/assets/c7227045-11a0-460e-9205-d35c99d0380c)
+![phenix블럭도](https://github.com/user-attachments/assets/e52665b1-dd2c-46ef-8d37-a0798f334c36)
 <br/>
 
 ## 👩‍👩‍👧‍👧 Authors
